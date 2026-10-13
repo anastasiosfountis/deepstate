@@ -1,0 +1,6268 @@
+{
+ "network": {
+  "items": [
+   {
+    "id": 1,
+    "label": "Abwehr",
+    "x": -7.061,
+    "y": -0.7281,
+    "cluster": 4,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 8
+    }
+   },
+   {
+    "id": 2,
+    "label": "Afghanistan",
+    "x": -3.8301,
+    "y": 0.4296,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 1,
+     "Total link strength": 4
+    },
+    "scores": {
+     "First chapter": 10
+    }
+   },
+   {
+    "id": 3,
+    "label": "Agamben, Giorgio",
+    "x": -2.5854,
+    "y": -0.3888,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 13,
+     "Links": 4,
+     "Total link strength": 13
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 4,
+    "label": "Algeria",
+    "x": -1.1945,
+    "y": 0.5797,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 15,
+     "Links": 5,
+     "Total link strength": 25
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 5,
+    "label": "Andreotti",
+    "x": -0.5416,
+    "y": -1.3184,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 5,
+     "Total link strength": 19
+    },
+    "scores": {
+     "First chapter": 12
+    }
+   },
+   {
+    "id": 6,
+    "label": "APT28",
+    "x": 3.9644,
+    "y": 1.1243,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 1,
+     "Total link strength": 4
+    },
+    "scores": {
+     "First chapter": 16
+    }
+   },
+   {
+    "id": 7,
+    "label": "Arcana imperii",
+    "x": 0.6105,
+    "y": 2.2371,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 12,
+     "Links": 4,
+     "Total link strength": 17
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 8,
+    "label": "Article 48",
+    "x": 0.0421,
+    "y": 0.9793,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 23,
+     "Links": 14,
+     "Total link strength": 90
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 9,
+    "label": "Bagehot",
+    "x": 2.7972,
+    "y": 0.5269,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 2,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 10,
+    "label": "Barruel",
+    "x": -0.6175,
+    "y": 3.1677,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 4,
+     "Total link strength": 13
+    },
+    "scores": {
+     "First chapter": 7
+    }
+   },
+   {
+    "id": 11,
+    "label": "Bobbio",
+    "x": 1.4003,
+    "y": -3.6082,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 12,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 23
+    }
+   },
+   {
+    "id": 12,
+    "label": "Bodin",
+    "x": 1.9143,
+    "y": 1.6606,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 2,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 13,
+    "label": "Bologna bombing",
+    "x": -0.7249,
+    "y": -2.8833,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 3,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 12
+    }
+   },
+   {
+    "id": 14,
+    "label": "Bolsonaro",
+    "x": 3.0131,
+    "y": 3.9183,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 1,
+     "Total link strength": 5
+    },
+    "scores": {
+     "First chapter": 19
+    }
+   },
+   {
+    "id": 15,
+    "label": "Bracken, Len",
+    "x": 0.9234,
+    "y": -0.172,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 28,
+     "Links": 16,
+     "Total link strength": 79
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 16,
+    "label": "Brazil",
+    "x": 1.5997,
+    "y": 2.8099,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 16,
+     "Links": 3,
+     "Total link strength": 15
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 17,
+    "label": "Byzantium",
+    "x": -1.9813,
+    "y": 3.7275,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 6
+    }
+   },
+   {
+    "id": 18,
+    "label": "Cabinet noir",
+    "x": -1.0025,
+    "y": 3.6816,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 2,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 7
+    }
+   },
+   {
+    "id": 19,
+    "label": "Caesar",
+    "x": 4.2915,
+    "y": -4.3189,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 20,
+    "label": "Canaris",
+    "x": -6.9868,
+    "y": -1.4009,
+    "cluster": 4,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 8
+    }
+   },
+   {
+    "id": 21,
+    "label": "Carpenter, Daniel",
+    "x": 2.5296,
+    "y": -1.4834,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 2,
+     "Links": 2,
+     "Total link strength": 7
+    },
+    "scores": {
+     "First chapter": 19
+    }
+   },
+   {
+    "id": 22,
+    "label": "Central Intelligence Agency",
+    "x": 0.5169,
+    "y": -0.9664,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 142,
+     "Links": 28,
+     "Total link strength": 189
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 23,
+    "label": "Chile",
+    "x": -0.4421,
+    "y": 2.2887,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 7,
+     "Links": 3,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 11
+    }
+   },
+   {
+    "id": 24,
+    "label": "Church Committee",
+    "x": 0.2986,
+    "y": -1.4871,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 24,
+     "Links": 10,
+     "Total link strength": 57
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 25,
+    "label": "Cheka",
+    "x": -1.1975,
+    "y": -0.2531,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 14,
+     "Links": 7,
+     "Total link strength": 29
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 26,
+    "label": "Cold War",
+    "x": 0.7845,
+    "y": -0.5006,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 68,
+     "Links": 31,
+     "Total link strength": 169
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 27,
+    "label": "Colombia",
+    "x": 1.8407,
+    "y": -0.309,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 16,
+     "Links": 7,
+     "Total link strength": 28
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 28,
+    "label": "Congress for Cultural Freedom",
+    "x": 1.2394,
+    "y": -2.141,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 3,
+     "Total link strength": 13
+    },
+    "scores": {
+     "First chapter": 11
+    }
+   },
+   {
+    "id": 29,
+    "label": "Conspiracy theory",
+    "x": -0.1466,
+    "y": 0.77,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 71,
+     "Links": 29,
+     "Total link strength": 144
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 30,
+    "label": "Council of Ten",
+    "x": 3.4223,
+    "y": 2.0255,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 2,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 6
+    }
+   },
+   {
+    "id": 31,
+    "label": "Counter-Guerrilla",
+    "x": 2.013,
+    "y": -0.8079,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 3,
+     "Links": 4,
+     "Total link strength": 14
+    },
+    "scores": {
+     "First chapter": 12
+    }
+   },
+   {
+    "id": 32,
+    "label": "Debord",
+    "x": 1.2399,
+    "y": 0.1312,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 30,
+     "Links": 8,
+     "Total link strength": 48
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 33,
+    "label": "Decisionism",
+    "x": -1.6116,
+    "y": -0.7325,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 7,
+     "Links": 3,
+     "Total link strength": 16
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 34,
+    "label": "Dreyfus",
+    "x": -0.0148,
+    "y": 2.1741,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 15,
+     "Links": 9,
+     "Total link strength": 29
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 35,
+    "label": "Derin devlet",
+    "x": -1.3449,
+    "y": 0.2028,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 3,
+     "Links": 7,
+     "Total link strength": 31
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 36,
+    "label": "Dulles, Allen",
+    "x": 0.3939,
+    "y": -3.5494,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 2,
+     "Total link strength": 7
+    },
+    "scores": {
+     "First chapter": 11
+    }
+   },
+   {
+    "id": 37,
+    "label": "Egypt",
+    "x": -0.8937,
+    "y": -0.1129,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 41,
+     "Links": 11,
+     "Total link strength": 72
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 38,
+    "label": "Eisenhower",
+    "x": 0.6875,
+    "y": -1.314,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 48,
+     "Links": 15,
+     "Total link strength": 72
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 39,
+    "label": "Emergency powers",
+    "x": -0.226,
+    "y": -1.5359,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 11,
+     "Links": 5,
+     "Total link strength": 17
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 40,
+    "label": "Ergenekon",
+    "x": 0.7021,
+    "y": -1.6737,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 14,
+     "Links": 4,
+     "Total link strength": 25
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 41,
+    "label": "Estonia",
+    "x": 2.5358,
+    "y": 2.7713,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 16
+    }
+   },
+   {
+    "id": 42,
+    "label": "Fascism",
+    "x": 1.0596,
+    "y": 1.1173,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 11,
+     "Links": 6,
+     "Total link strength": 22
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 43,
+    "label": "Federal Bureau of Investigation",
+    "x": 0.1742,
+    "y": -1.905,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 41,
+     "Links": 10,
+     "Total link strength": 57
+    },
+    "scores": {
+     "First chapter": 11
+    }
+   },
+   {
+    "id": 44,
+    "label": "Felt, Mark",
+    "x": -0.8338,
+    "y": -3.9275,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 2,
+     "Links": 2,
+     "Total link strength": 6
+    },
+    "scores": {
+     "First chapter": 11
+    }
+   },
+   {
+    "id": 45,
+    "label": "Fouché",
+    "x": -0.8197,
+    "y": 2.6955,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 3,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 46,
+    "label": "Fraenkel, Ernst",
+    "x": 0.3935,
+    "y": 0.2942,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 119,
+     "Links": 38,
+     "Total link strength": 344
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 47,
+    "label": "Freikorps",
+    "x": -1.2158,
+    "y": 1.5745,
+    "cluster": 4,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 3,
+     "Total link strength": 12
+    },
+    "scores": {
+     "First chapter": 8
+    }
+   },
+   {
+    "id": 48,
+    "label": "Friend–enemy distinction",
+    "x": -0.7039,
+    "y": 0.5851,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 7,
+     "Total link strength": 25
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 49,
+    "label": "Fukuyama",
+    "x": 2.3673,
+    "y": -0.2061,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 2,
+     "Total link strength": 11
+    },
+    "scores": {
+     "First chapter": 19
+    }
+   },
+   {
+    "id": 50,
+    "label": "Galeotti",
+    "x": -3.4062,
+    "y": 1.4743,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 7,
+     "Links": 1,
+     "Total link strength": 4
+    },
+    "scores": {
+     "First chapter": 15
+    }
+   },
+   {
+    "id": 51,
+    "label": "Ganser",
+    "x": 1.3812,
+    "y": -0.2585,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 17,
+     "Links": 9,
+     "Total link strength": 35
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 52,
+    "label": "Gelli",
+    "x": 1.0924,
+    "y": -2.7617,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 3,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 12
+    }
+   },
+   {
+    "id": 53,
+    "label": "Gestapo",
+    "x": 1.6096,
+    "y": 1.1204,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 17,
+     "Links": 4,
+     "Total link strength": 22
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 54,
+    "label": "Gibbs, David N.",
+    "x": 0.3522,
+    "y": 1.1824,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 23,
+     "Links": 5,
+     "Total link strength": 20
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 55,
+    "label": "Gingeras",
+    "x": -1.7115,
+    "y": -0.0144,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 5,
+     "Total link strength": 23
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 56,
+    "label": "Gladio",
+    "x": 0.6309,
+    "y": -0.2379,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 28,
+     "Links": 18,
+     "Total link strength": 76
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 57,
+    "label": "Glennon",
+    "x": 0.1534,
+    "y": -0.5043,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 36,
+     "Links": 20,
+     "Total link strength": 111
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 58,
+    "label": "GRU",
+    "x": 1.3931,
+    "y": 0.4404,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 34,
+     "Links": 8,
+     "Total link strength": 31
+    },
+    "scores": {
+     "First chapter": 15
+    }
+   },
+   {
+    "id": 59,
+    "label": "Guantánamo",
+    "x": -2.5298,
+    "y": -1.0617,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 3,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 60,
+    "label": "Gülen",
+    "x": 0.8894,
+    "y": -1.0813,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 28,
+     "Links": 6,
+     "Total link strength": 34
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 61,
+    "label": "Habermas",
+    "x": 3.6949,
+    "y": 0.0165,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 1,
+     "Total link strength": 4
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 62,
+    "label": "Hitler",
+    "x": 0.6439,
+    "y": 1.0178,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 48,
+     "Links": 10,
+     "Total link strength": 57
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 63,
+    "label": "Hobbes",
+    "x": 0.754,
+    "y": 1.508,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 12,
+     "Links": 6,
+     "Total link strength": 24
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 64,
+    "label": "Hofstadter",
+    "x": -1.3241,
+    "y": -1.8242,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 2,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 7
+    }
+   },
+   {
+    "id": 65,
+    "label": "Huntington",
+    "x": -1.7463,
+    "y": 1.3893,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 12,
+     "Links": 3,
+     "Total link strength": 10
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 66,
+    "label": "Illuminati",
+    "x": -1.5627,
+    "y": 2.7403,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 2,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 7
+    }
+   },
+   {
+    "id": 67,
+    "label": "Intelligence services",
+    "x": -0.0401,
+    "y": -0.3784,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 93,
+     "Links": 39,
+     "Total link strength": 214
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 68,
+    "label": "Iran-Contra",
+    "x": -0.5198,
+    "y": -1.9508,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 6,
+     "Total link strength": 26
+    },
+    "scores": {
+     "First chapter": 11
+    }
+   },
+   {
+    "id": 69,
+    "label": "Islamic Revolutionary Guard Corps",
+    "x": -3.585,
+    "y": 0.9511,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 17,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 17
+    }
+   },
+   {
+    "id": 70,
+    "label": "Kandil",
+    "x": -2.2321,
+    "y": -0.009,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 3,
+     "Total link strength": 13
+    },
+    "scores": {
+     "First chapter": 14
+    }
+   },
+   {
+    "id": 71,
+    "label": "Kant",
+    "x": 1.3915,
+    "y": -0.5345,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 15,
+     "Links": 6,
+     "Total link strength": 19
+    },
+    "scores": {
+     "First chapter": 7
+    }
+   },
+   {
+    "id": 72,
+    "label": "Kelsen",
+    "x": -0.9942,
+    "y": 0.9505,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 16,
+     "Links": 7,
+     "Total link strength": 35
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 73,
+    "label": "KGB",
+    "x": -0.8219,
+    "y": -1.6184,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 21,
+     "Links": 6,
+     "Total link strength": 31
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 74,
+    "label": "Kinkle",
+    "x": 0.9246,
+    "y": 0.1264,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 36,
+     "Links": 10,
+     "Total link strength": 81
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 75,
+    "label": "Kwantung",
+    "x": -2.5669,
+    "y": 0.4748,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 7,
+     "Links": 2,
+     "Total link strength": 6
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 76,
+    "label": "Lasswell",
+    "x": 2.2118,
+    "y": -2.8258,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 2,
+     "Total link strength": 6
+    },
+    "scores": {
+     "First chapter": 10
+    }
+   },
+   {
+    "id": 77,
+    "label": "Legitimacy",
+    "x": 0.0725,
+    "y": 0.3619,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 89,
+     "Links": 22,
+     "Total link strength": 151
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 78,
+    "label": "Legitimation",
+    "x": 2.235,
+    "y": 0.6021,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 2,
+     "Total link strength": 7
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 79,
+    "label": "Lenin",
+    "x": -0.165,
+    "y": -1.2209,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 17,
+     "Links": 6,
+     "Total link strength": 19
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 80,
+    "label": "Litvinenko",
+    "x": -3.2982,
+    "y": 2.4814,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 15
+    }
+   },
+   {
+    "id": 81,
+    "label": "Lofgren",
+    "x": 1.7538,
+    "y": 0.1532,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 5,
+     "Total link strength": 23
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 82,
+    "label": "Machiavelli",
+    "x": 0.4294,
+    "y": 1.6245,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 18,
+     "Links": 10,
+     "Total link strength": 35
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 83,
+    "label": "Mafia state",
+    "x": 2.0062,
+    "y": -1.3027,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 3,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 84,
+    "label": "Mao",
+    "x": 2.2861,
+    "y": 1.2099,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 3,
+     "Total link strength": 10
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 85,
+    "label": "McCarthy",
+    "x": -1.7462,
+    "y": -3.1537,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 1,
+     "Total link strength": 4
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 86,
+    "label": "Mills, C. Wright",
+    "x": 1.5082,
+    "y": -1.5923,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 5,
+     "Total link strength": 17
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 87,
+    "label": "Military-industrial complex",
+    "x": 1.3104,
+    "y": -1.0618,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 22,
+     "Links": 8,
+     "Total link strength": 39
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 88,
+    "label": "Moro, Aldo",
+    "x": 0.0721,
+    "y": 1.5437,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 29,
+     "Links": 8,
+     "Total link strength": 31
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 89,
+    "label": "Morgenthau",
+    "x": 0.2019,
+    "y": -0.2831,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 31,
+     "Links": 17,
+     "Total link strength": 124
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 90,
+    "label": "Napoleon",
+    "x": -1.8903,
+    "y": -1.0071,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 12,
+     "Links": 3,
+     "Total link strength": 11
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 91,
+    "label": "National Security Act",
+    "x": 0.2436,
+    "y": -2.7646,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 3,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 92,
+    "label": "NATO",
+    "x": 0.9874,
+    "y": -0.6805,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 28,
+     "Links": 14,
+     "Total link strength": 63
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 93,
+    "label": "Nazi",
+    "x": 0.3146,
+    "y": 0.7646,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 74,
+     "Links": 27,
+     "Total link strength": 214
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 94,
+    "label": "Neumann, Franz",
+    "x": 1.503,
+    "y": 1.7933,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 3,
+     "Links": 3,
+     "Total link strength": 14
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 95,
+    "label": "NKVD",
+    "x": -2.1735,
+    "y": 0.64,
+    "cluster": 4,
+    "weights": {
+     "Occurrences": 7,
+     "Links": 3,
+     "Total link strength": 15
+    },
+    "scores": {
+     "First chapter": 9
+    }
+   },
+   {
+    "id": 96,
+    "label": "NSA",
+    "x": 0.5343,
+    "y": -3.1389,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 3,
+     "Total link strength": 10
+    },
+    "scores": {
+     "First chapter": 11
+    }
+   },
+   {
+    "id": 97,
+    "label": "NSC 10/2",
+    "x": 2.7388,
+    "y": -0.8644,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 2,
+     "Total link strength": 7
+    },
+    "scores": {
+     "First chapter": 11
+    }
+   },
+   {
+    "id": 98,
+    "label": "Okhrana",
+    "x": 1.2799,
+    "y": 3.4836,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 2,
+     "Total link strength": 6
+    },
+    "scores": {
+     "First chapter": 7
+    }
+   },
+   {
+    "id": 99,
+    "label": "Pakistan",
+    "x": -0.916,
+    "y": 0.3154,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 37,
+     "Links": 12,
+     "Total link strength": 56
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 100,
+    "label": "Parakratos",
+    "x": -1.2955,
+    "y": -1.2418,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 5,
+     "Total link strength": 16
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 101,
+    "label": "Parapolitics",
+    "x": 0.8796,
+    "y": 0.4107,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 18,
+     "Links": 15,
+     "Total link strength": 84
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 102,
+    "label": "Parapolítica",
+    "x": 3.273,
+    "y": -0.8453,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 2,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 103,
+    "label": "Partisan",
+    "x": 0.2307,
+    "y": -0.0757,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 201,
+     "Links": 30,
+     "Total link strength": 256
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 104,
+    "label": "Pegasus",
+    "x": 3.1341,
+    "y": -0.0373,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 1,
+     "Total link strength": 4
+    },
+    "scores": {
+     "First chapter": 17
+    }
+   },
+   {
+    "id": 105,
+    "label": "Plausible deniability",
+    "x": 1.6539,
+    "y": -1.9697,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 4,
+     "Total link strength": 14
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 106,
+    "label": "Popper",
+    "x": -2.5872,
+    "y": 2.4479,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 1,
+     "Total link strength": 4
+    },
+    "scores": {
+     "First chapter": 22
+    }
+   },
+   {
+    "id": 107,
+    "label": "Praetorianism",
+    "x": -2.727,
+    "y": 1.266,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 2,
+     "Links": 2,
+     "Total link strength": 6
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 108,
+    "label": "Preparata",
+    "x": 0.6383,
+    "y": 3.1184,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 2,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 109,
+    "label": "Prerogative state",
+    "x": 0.6452,
+    "y": 0.206,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 72,
+     "Links": 24,
+     "Total link strength": 219
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 110,
+    "label": "Prigozhin",
+    "x": 0.45,
+    "y": -0.4564,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 15,
+     "Links": 3,
+     "Total link strength": 16
+    },
+    "scores": {
+     "First chapter": 15
+    }
+   },
+   {
+    "id": 111,
+    "label": "Protocols of the Elders of Zion",
+    "x": 0.3685,
+    "y": 2.568,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 13,
+     "Links": 7,
+     "Total link strength": 23
+    },
+    "scores": {
+     "First chapter": 7
+    }
+   },
+   {
+    "id": 112,
+    "label": "Putin",
+    "x": -0.9854,
+    "y": -0.5759,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 57,
+     "Links": 10,
+     "Total link strength": 53
+    },
+    "scores": {
+     "First chapter": 15
+    }
+   },
+   {
+    "id": 113,
+    "label": "QAnon",
+    "x": 0.5551,
+    "y": -2.1354,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 7,
+     "Links": 2,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 19
+    }
+   },
+   {
+    "id": 114,
+    "label": "Rasch",
+    "x": -0.4228,
+    "y": 0.3328,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 47,
+     "Links": 16,
+     "Total link strength": 127
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 115,
+    "label": "Raison d’état",
+    "x": -4.3971,
+    "y": 2.5989,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 2,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 6
+    }
+   },
+   {
+    "id": 116,
+    "label": "Richelieu",
+    "x": 0.3121,
+    "y": 1.9723,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 15,
+     "Links": 9,
+     "Total link strength": 38
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 117,
+    "label": "Rohde",
+    "x": 0.6552,
+    "y": -2.5995,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 3,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 19
+    }
+   },
+   {
+    "id": 118,
+    "label": "Rome",
+    "x": -0.2956,
+    "y": 1.7618,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 21,
+     "Links": 7,
+     "Total link strength": 23
+    },
+    "scores": {
+     "First chapter": 6
+    }
+   },
+   {
+    "id": 119,
+    "label": "Rossiter",
+    "x": -2.7488,
+    "y": -2.1114,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 120,
+    "label": "Schmitt, Carl",
+    "x": -0.1727,
+    "y": 0.0752,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 511,
+     "Links": 58,
+     "Total link strength": 705
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 121,
+    "label": "Schleicher",
+    "x": -0.7612,
+    "y": 1.784,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 18,
+     "Links": 4,
+     "Total link strength": 17
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 122,
+    "label": "Scott, Peter Dale",
+    "x": 0.3625,
+    "y": -0.6981,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 13,
+     "Total link strength": 71
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 123,
+    "label": "Secrecy",
+    "x": 0.2419,
+    "y": 0.5179,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 121,
+     "Links": 48,
+     "Total link strength": 269
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 124,
+    "label": "Siloviki",
+    "x": -2.9954,
+    "y": -3.1425,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 15
+    }
+   },
+   {
+    "id": 125,
+    "label": "Siddiqa",
+    "x": 1.1503,
+    "y": 0.7974,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 4,
+     "Total link strength": 16
+    },
+    "scores": {
+     "First chapter": 14
+    }
+   },
+   {
+    "id": 126,
+    "label": "Skowronek",
+    "x": -0.5958,
+    "y": -0.616,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 6,
+     "Total link strength": 31
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 127,
+    "label": "Snowden",
+    "x": -0.1587,
+    "y": -1.9952,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 16,
+     "Links": 7,
+     "Total link strength": 28
+    },
+    "scores": {
+     "First chapter": 11
+    }
+   },
+   {
+    "id": 128,
+    "label": "Söyler",
+    "x": -1.6316,
+    "y": 0.8437,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 5,
+     "Total link strength": 21
+    },
+    "scores": {
+     "First chapter": 13
+    }
+   },
+   {
+    "id": 129,
+    "label": "Soviet Union",
+    "x": 0.0991,
+    "y": -0.2127,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 118,
+     "Links": 36,
+     "Total link strength": 226
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 130,
+    "label": "Stalin",
+    "x": -2.005,
+    "y": -0.435,
+    "cluster": 4,
+    "weights": {
+     "Occurrences": 18,
+     "Links": 4,
+     "Total link strength": 15
+    },
+    "scores": {
+     "First chapter": 9
+    }
+   },
+   {
+    "id": 131,
+    "label": "State of exception",
+    "x": -1.6759,
+    "y": 0.4114,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 5,
+     "Total link strength": 26
+    },
+    "scores": {
+     "First chapter": 3
+    }
+   },
+   {
+    "id": 132,
+    "label": "Stasi",
+    "x": 2.5373,
+    "y": -2.2291,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 16,
+     "Links": 3,
+     "Total link strength": 9
+    },
+    "scores": {
+     "First chapter": 24
+    }
+   },
+   {
+    "id": 133,
+    "label": "Strauss, Leo",
+    "x": -3.4282,
+    "y": -2.178,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 2,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 134,
+    "label": "Strategy of tension",
+    "x": -0.8854,
+    "y": -1.0887,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 5,
+     "Total link strength": 21
+    },
+    "scores": {
+     "First chapter": 5
+    }
+   },
+   {
+    "id": 135,
+    "label": "Sulla",
+    "x": 3.293,
+    "y": -3.2675,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 7,
+     "Links": 2,
+     "Total link strength": 6
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 136,
+    "label": "Susurluk",
+    "x": -0.5664,
+    "y": 0.8573,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 17,
+     "Links": 8,
+     "Total link strength": 45
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 137,
+    "label": "Svolik",
+    "x": -0.2543,
+    "y": -3.8674,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 21
+    }
+   },
+   {
+    "id": 138,
+    "label": "Tacitus",
+    "x": 0.0232,
+    "y": 3.5177,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 15,
+     "Links": 3,
+     "Total link strength": 12
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 139,
+    "label": "Tunander",
+    "x": 0.4524,
+    "y": 0.4386,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 42,
+     "Links": 25,
+     "Total link strength": 139
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 140,
+    "label": "Turkey",
+    "x": -0.3459,
+    "y": -0.2665,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 65,
+     "Links": 31,
+     "Total link strength": 206
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 141,
+    "label": "Uscinski",
+    "x": -0.6296,
+    "y": 1.3898,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 3,
+     "Total link strength": 12
+    },
+    "scores": {
+     "First chapter": 19
+    }
+   },
+   {
+    "id": 142,
+    "label": "Venice",
+    "x": -2.2985,
+    "y": 1.7797,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 5,
+     "Links": 3,
+     "Total link strength": 10
+    },
+    "scores": {
+     "First chapter": 6
+    }
+   },
+   {
+    "id": 143,
+    "label": "Volt Typhoon",
+    "x": -1.629,
+    "y": 3.2534,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 16
+    }
+   },
+   {
+    "id": 144,
+    "label": "Wagner Group",
+    "x": 1.0662,
+    "y": -1.6171,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 15,
+     "Links": 3,
+     "Total link strength": 16
+    },
+    "scores": {
+     "First chapter": 15
+    }
+   },
+   {
+    "id": 145,
+    "label": "Walsingham",
+    "x": 1.0814,
+    "y": 1.8077,
+    "cluster": 3,
+    "weights": {
+     "Occurrences": 12,
+     "Links": 5,
+     "Total link strength": 20
+    },
+    "scores": {
+     "First chapter": 7
+    }
+   },
+   {
+    "id": 146,
+    "label": "Watergate",
+    "x": -0.261,
+    "y": -2.4435,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 14,
+     "Links": 7,
+     "Total link strength": 31
+    },
+    "scores": {
+     "First chapter": 2
+    }
+   },
+   {
+    "id": 147,
+    "label": "Weber, Max",
+    "x": -0.5878,
+    "y": 0.0394,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 43,
+     "Links": 12,
+     "Total link strength": 65
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 148,
+    "label": "Weimar",
+    "x": -0.1995,
+    "y": 0.5669,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 60,
+     "Links": 18,
+     "Total link strength": 156
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 149,
+    "label": "Wilson, Eric",
+    "x": 0.6724,
+    "y": 0.6531,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 16,
+     "Links": 17,
+     "Total link strength": 101
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 150,
+    "label": "Xi Jinping",
+    "x": 2.729,
+    "y": 1.688,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 2,
+     "Total link strength": 7
+    },
+    "scores": {
+     "First chapter": 21
+    }
+   },
+   {
+    "id": 151,
+    "label": "Sovereignty",
+    "x": -0.0573,
+    "y": 0.2432,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 209,
+     "Links": 40,
+     "Total link strength": 387
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 152,
+    "label": "Surveillance",
+    "x": -0.2045,
+    "y": -0.7026,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 91,
+     "Links": 24,
+     "Total link strength": 143
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 153,
+    "label": "Artificial intelligence",
+    "x": 0.0681,
+    "y": -0.9728,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 20,
+     "Links": 7,
+     "Total link strength": 38
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 154,
+    "label": "Spyware",
+    "x": -0.3781,
+    "y": -0.9594,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 28,
+     "Links": 7,
+     "Total link strength": 32
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 155,
+    "label": "Dictatorship",
+    "x": 0.5357,
+    "y": -0.4977,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 60,
+     "Links": 25,
+     "Total link strength": 182
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 156,
+    "label": "Eunuchs",
+    "x": -0.0679,
+    "y": 2.6146,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 32,
+     "Links": 6,
+     "Total link strength": 20
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 157,
+    "label": "Parapolitical",
+    "x": 0.1949,
+    "y": 0.184,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 52,
+     "Links": 30,
+     "Total link strength": 191
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 158,
+    "label": "Dual state",
+    "x": 0.4941,
+    "y": -0.0597,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 103,
+     "Links": 41,
+     "Total link strength": 363
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 159,
+    "label": "Deep state",
+    "x": -0.0615,
+    "y": -0.1575,
+    "cluster": 1,
+    "weights": {
+     "Occurrences": 497,
+     "Links": 99,
+     "Total link strength": 916
+    },
+    "scores": {
+     "First chapter": 1
+    }
+   },
+   {
+    "id": 160,
+    "label": "Hanning, August",
+    "x": -2.3994,
+    "y": -2.427,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 9,
+     "Links": 2,
+     "Total link strength": 6
+    },
+    "scores": {
+     "First chapter": 19
+    }
+   },
+   {
+    "id": 161,
+    "label": "Guillaume, Günter",
+    "x": 6.5744,
+    "y": -2.3327,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 13,
+     "Links": 1,
+     "Total link strength": 4
+    },
+    "scores": {
+     "First chapter": 26
+    }
+   },
+   {
+    "id": 162,
+    "label": "Brandt, Willy",
+    "x": 5.9302,
+    "y": -2.7242,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 11,
+     "Links": 2,
+     "Total link strength": 7
+    },
+    "scores": {
+     "First chapter": 26
+    }
+   },
+   {
+    "id": 163,
+    "label": "Bin Laden",
+    "x": 0.4509,
+    "y": 4.0762,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 20
+    }
+   },
+   {
+    "id": 164,
+    "label": "Taliban",
+    "x": -3.9643,
+    "y": -0.2957,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 4,
+     "Links": 1,
+     "Total link strength": 3
+    },
+    "scores": {
+     "First chapter": 26
+    }
+   },
+   {
+    "id": 165,
+    "label": "Red Brigades",
+    "x": 1.1298,
+    "y": 2.2243,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 12,
+     "Links": 3,
+     "Total link strength": 14
+    },
+    "scores": {
+     "First chapter": 12
+    }
+   },
+   {
+    "id": 166,
+    "label": "Militant democracy",
+    "x": -1.8508,
+    "y": -1.4159,
+    "cluster": 2,
+    "weights": {
+     "Occurrences": 8,
+     "Links": 3,
+     "Total link strength": 15
+    },
+    "scores": {
+     "First chapter": 4
+    }
+   },
+   {
+    "id": 167,
+    "label": "Revolving door",
+    "x": -2.9808,
+    "y": -1.497,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 2,
+     "Total link strength": 8
+    },
+    "scores": {
+     "First chapter": 10
+    }
+   },
+   {
+    "id": 168,
+    "label": "HVA",
+    "x": 4.7732,
+    "y": -2.6926,
+    "cluster": 5,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 2,
+     "Total link strength": 6
+    },
+    "scores": {
+     "First chapter": 26
+    }
+   },
+   {
+    "id": 169,
+    "label": "Loewenstein, Karl",
+    "x": -1.4756,
+    "y": -0.4535,
+    "cluster": 7,
+    "weights": {
+     "Occurrences": 10,
+     "Links": 5,
+     "Total link strength": 21
+    },
+    "scores": {
+     "First chapter": 19
+    }
+   },
+   {
+    "id": 170,
+    "label": "Mitrokhin",
+    "x": -1.6453,
+    "y": -2.2417,
+    "cluster": 6,
+    "weights": {
+     "Occurrences": 6,
+     "Links": 2,
+     "Total link strength": 10
+    },
+    "scores": {
+     "First chapter": 15
+    }
+   }
+  ],
+  "links": [
+   {
+    "source_id": 159,
+    "target_id": 35,
+    "strength": 8
+   },
+   {
+    "source_id": 159,
+    "target_id": 136,
+    "strength": 18
+   },
+   {
+    "source_id": 35,
+    "target_id": 136,
+    "strength": 6
+   },
+   {
+    "source_id": 29,
+    "target_id": 159,
+    "strength": 20
+   },
+   {
+    "source_id": 29,
+    "target_id": 103,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 103,
+    "strength": 35
+   },
+   {
+    "source_id": 159,
+    "target_id": 118,
+    "strength": 4
+   },
+   {
+    "source_id": 26,
+    "target_id": 159,
+    "strength": 19
+   },
+   {
+    "source_id": 26,
+    "target_id": 92,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 55,
+    "strength": 7
+   },
+   {
+    "source_id": 159,
+    "target_id": 92,
+    "strength": 6
+   },
+   {
+    "source_id": 159,
+    "target_id": 40,
+    "strength": 8
+   },
+   {
+    "source_id": 159,
+    "target_id": 60,
+    "strength": 9
+   },
+   {
+    "source_id": 159,
+    "target_id": 140,
+    "strength": 34
+   },
+   {
+    "source_id": 40,
+    "target_id": 60,
+    "strength": 6
+   },
+   {
+    "source_id": 40,
+    "target_id": 140,
+    "strength": 6
+   },
+   {
+    "source_id": 60,
+    "target_id": 140,
+    "strength": 10
+   },
+   {
+    "source_id": 155,
+    "target_id": 67,
+    "strength": 5
+   },
+   {
+    "source_id": 155,
+    "target_id": 140,
+    "strength": 5
+   },
+   {
+    "source_id": 37,
+    "target_id": 67,
+    "strength": 6
+   },
+   {
+    "source_id": 37,
+    "target_id": 100,
+    "strength": 3
+   },
+   {
+    "source_id": 37,
+    "target_id": 140,
+    "strength": 14
+   },
+   {
+    "source_id": 67,
+    "target_id": 140,
+    "strength": 12
+   },
+   {
+    "source_id": 100,
+    "target_id": 140,
+    "strength": 4
+   },
+   {
+    "source_id": 116,
+    "target_id": 151,
+    "strength": 4
+   },
+   {
+    "source_id": 151,
+    "target_id": 148,
+    "strength": 12
+   },
+   {
+    "source_id": 155,
+    "target_id": 46,
+    "strength": 11
+   },
+   {
+    "source_id": 155,
+    "target_id": 62,
+    "strength": 4
+   },
+   {
+    "source_id": 155,
+    "target_id": 93,
+    "strength": 9
+   },
+   {
+    "source_id": 46,
+    "target_id": 62,
+    "strength": 7
+   },
+   {
+    "source_id": 46,
+    "target_id": 93,
+    "strength": 32
+   },
+   {
+    "source_id": 62,
+    "target_id": 93,
+    "strength": 10
+   },
+   {
+    "source_id": 159,
+    "target_id": 158,
+    "strength": 28
+   },
+   {
+    "source_id": 159,
+    "target_id": 89,
+    "strength": 7
+   },
+   {
+    "source_id": 159,
+    "target_id": 101,
+    "strength": 11
+   },
+   {
+    "source_id": 159,
+    "target_id": 120,
+    "strength": 62
+   },
+   {
+    "source_id": 159,
+    "target_id": 122,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 139,
+    "strength": 15
+   },
+   {
+    "source_id": 159,
+    "target_id": 149,
+    "strength": 11
+   },
+   {
+    "source_id": 158,
+    "target_id": 89,
+    "strength": 15
+   },
+   {
+    "source_id": 158,
+    "target_id": 101,
+    "strength": 8
+   },
+   {
+    "source_id": 158,
+    "target_id": 120,
+    "strength": 30
+   },
+   {
+    "source_id": 158,
+    "target_id": 122,
+    "strength": 8
+   },
+   {
+    "source_id": 158,
+    "target_id": 139,
+    "strength": 13
+   },
+   {
+    "source_id": 158,
+    "target_id": 149,
+    "strength": 7
+   },
+   {
+    "source_id": 89,
+    "target_id": 101,
+    "strength": 3
+   },
+   {
+    "source_id": 89,
+    "target_id": 120,
+    "strength": 9
+   },
+   {
+    "source_id": 89,
+    "target_id": 122,
+    "strength": 7
+   },
+   {
+    "source_id": 89,
+    "target_id": 139,
+    "strength": 8
+   },
+   {
+    "source_id": 89,
+    "target_id": 149,
+    "strength": 4
+   },
+   {
+    "source_id": 101,
+    "target_id": 120,
+    "strength": 8
+   },
+   {
+    "source_id": 101,
+    "target_id": 122,
+    "strength": 7
+   },
+   {
+    "source_id": 101,
+    "target_id": 139,
+    "strength": 3
+   },
+   {
+    "source_id": 101,
+    "target_id": 149,
+    "strength": 7
+   },
+   {
+    "source_id": 120,
+    "target_id": 122,
+    "strength": 5
+   },
+   {
+    "source_id": 120,
+    "target_id": 139,
+    "strength": 12
+   },
+   {
+    "source_id": 120,
+    "target_id": 149,
+    "strength": 13
+   },
+   {
+    "source_id": 122,
+    "target_id": 139,
+    "strength": 3
+   },
+   {
+    "source_id": 122,
+    "target_id": 149,
+    "strength": 4
+   },
+   {
+    "source_id": 139,
+    "target_id": 149,
+    "strength": 4
+   },
+   {
+    "source_id": 9,
+    "target_id": 57,
+    "strength": 6
+   },
+   {
+    "source_id": 9,
+    "target_id": 81,
+    "strength": 3
+   },
+   {
+    "source_id": 57,
+    "target_id": 81,
+    "strength": 7
+   },
+   {
+    "source_id": 159,
+    "target_id": 37,
+    "strength": 18
+   },
+   {
+    "source_id": 159,
+    "target_id": 49,
+    "strength": 8
+   },
+   {
+    "source_id": 159,
+    "target_id": 126,
+    "strength": 12
+   },
+   {
+    "source_id": 126,
+    "target_id": 140,
+    "strength": 3
+   },
+   {
+    "source_id": 4,
+    "target_id": 159,
+    "strength": 7
+   },
+   {
+    "source_id": 4,
+    "target_id": 37,
+    "strength": 6
+   },
+   {
+    "source_id": 4,
+    "target_id": 140,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 67,
+    "strength": 28
+   },
+   {
+    "source_id": 159,
+    "target_id": 70,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 99,
+    "strength": 8
+   },
+   {
+    "source_id": 159,
+    "target_id": 125,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 128,
+    "strength": 7
+   },
+   {
+    "source_id": 35,
+    "target_id": 37,
+    "strength": 3
+   },
+   {
+    "source_id": 35,
+    "target_id": 55,
+    "strength": 3
+   },
+   {
+    "source_id": 35,
+    "target_id": 67,
+    "strength": 3
+   },
+   {
+    "source_id": 35,
+    "target_id": 128,
+    "strength": 3
+   },
+   {
+    "source_id": 35,
+    "target_id": 140,
+    "strength": 5
+   },
+   {
+    "source_id": 37,
+    "target_id": 70,
+    "strength": 5
+   },
+   {
+    "source_id": 37,
+    "target_id": 99,
+    "strength": 7
+   },
+   {
+    "source_id": 37,
+    "target_id": 125,
+    "strength": 3
+   },
+   {
+    "source_id": 55,
+    "target_id": 67,
+    "strength": 3
+   },
+   {
+    "source_id": 55,
+    "target_id": 128,
+    "strength": 4
+   },
+   {
+    "source_id": 55,
+    "target_id": 140,
+    "strength": 6
+   },
+   {
+    "source_id": 67,
+    "target_id": 99,
+    "strength": 5
+   },
+   {
+    "source_id": 70,
+    "target_id": 140,
+    "strength": 3
+   },
+   {
+    "source_id": 99,
+    "target_id": 125,
+    "strength": 6
+   },
+   {
+    "source_id": 99,
+    "target_id": 140,
+    "strength": 8
+   },
+   {
+    "source_id": 125,
+    "target_id": 140,
+    "strength": 3
+   },
+   {
+    "source_id": 128,
+    "target_id": 140,
+    "strength": 4
+   },
+   {
+    "source_id": 65,
+    "target_id": 107,
+    "strength": 3
+   },
+   {
+    "source_id": 21,
+    "target_id": 22,
+    "strength": 3
+   },
+   {
+    "source_id": 21,
+    "target_id": 159,
+    "strength": 4
+   },
+   {
+    "source_id": 22,
+    "target_id": 159,
+    "strength": 15
+   },
+   {
+    "source_id": 22,
+    "target_id": 43,
+    "strength": 10
+   },
+   {
+    "source_id": 22,
+    "target_id": 57,
+    "strength": 3
+   },
+   {
+    "source_id": 22,
+    "target_id": 157,
+    "strength": 7
+   },
+   {
+    "source_id": 22,
+    "target_id": 117,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 43,
+    "strength": 11
+   },
+   {
+    "source_id": 159,
+    "target_id": 57,
+    "strength": 11
+   },
+   {
+    "source_id": 159,
+    "target_id": 81,
+    "strength": 7
+   },
+   {
+    "source_id": 159,
+    "target_id": 157,
+    "strength": 15
+   },
+   {
+    "source_id": 159,
+    "target_id": 107,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 117,
+    "strength": 3
+   },
+   {
+    "source_id": 43,
+    "target_id": 117,
+    "strength": 3
+   },
+   {
+    "source_id": 57,
+    "target_id": 157,
+    "strength": 8
+   },
+   {
+    "source_id": 57,
+    "target_id": 126,
+    "strength": 6
+   },
+   {
+    "source_id": 81,
+    "target_id": 157,
+    "strength": 3
+   },
+   {
+    "source_id": 81,
+    "target_id": 126,
+    "strength": 3
+   },
+   {
+    "source_id": 157,
+    "target_id": 126,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 141,
+    "strength": 5
+   },
+   {
+    "source_id": 22,
+    "target_id": 67,
+    "strength": 6
+   },
+   {
+    "source_id": 57,
+    "target_id": 147,
+    "strength": 4
+   },
+   {
+    "source_id": 7,
+    "target_id": 159,
+    "strength": 4
+   },
+   {
+    "source_id": 7,
+    "target_id": 123,
+    "strength": 5
+   },
+   {
+    "source_id": 7,
+    "target_id": 147,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 123,
+    "strength": 28
+   },
+   {
+    "source_id": 159,
+    "target_id": 147,
+    "strength": 15
+   },
+   {
+    "source_id": 123,
+    "target_id": 147,
+    "strength": 4
+   },
+   {
+    "source_id": 136,
+    "target_id": 139,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 56,
+    "strength": 6
+   },
+   {
+    "source_id": 159,
+    "target_id": 166,
+    "strength": 7
+   },
+   {
+    "source_id": 37,
+    "target_id": 56,
+    "strength": 4
+   },
+   {
+    "source_id": 56,
+    "target_id": 99,
+    "strength": 3
+   },
+   {
+    "source_id": 56,
+    "target_id": 140,
+    "strength": 6
+   },
+   {
+    "source_id": 24,
+    "target_id": 159,
+    "strength": 9
+   },
+   {
+    "source_id": 18,
+    "target_id": 152,
+    "strength": 3
+   },
+   {
+    "source_id": 38,
+    "target_id": 46,
+    "strength": 4
+   },
+   {
+    "source_id": 38,
+    "target_id": 76,
+    "strength": 3
+   },
+   {
+    "source_id": 38,
+    "target_id": 87,
+    "strength": 14
+   },
+   {
+    "source_id": 38,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 156,
+    "target_id": 82,
+    "strength": 3
+   },
+   {
+    "source_id": 156,
+    "target_id": 116,
+    "strength": 4
+   },
+   {
+    "source_id": 156,
+    "target_id": 138,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 57,
+    "strength": 9
+   },
+   {
+    "source_id": 46,
+    "target_id": 63,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 82,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 87,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 89,
+    "strength": 19
+   },
+   {
+    "source_id": 46,
+    "target_id": 116,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 120,
+    "strength": 19
+   },
+   {
+    "source_id": 46,
+    "target_id": 152,
+    "strength": 4
+   },
+   {
+    "source_id": 46,
+    "target_id": 139,
+    "strength": 8
+   },
+   {
+    "source_id": 46,
+    "target_id": 147,
+    "strength": 7
+   },
+   {
+    "source_id": 57,
+    "target_id": 89,
+    "strength": 9
+   },
+   {
+    "source_id": 57,
+    "target_id": 120,
+    "strength": 5
+   },
+   {
+    "source_id": 57,
+    "target_id": 152,
+    "strength": 3
+   },
+   {
+    "source_id": 57,
+    "target_id": 139,
+    "strength": 3
+   },
+   {
+    "source_id": 63,
+    "target_id": 116,
+    "strength": 3
+   },
+   {
+    "source_id": 63,
+    "target_id": 120,
+    "strength": 6
+   },
+   {
+    "source_id": 65,
+    "target_id": 87,
+    "strength": 3
+   },
+   {
+    "source_id": 76,
+    "target_id": 87,
+    "strength": 3
+   },
+   {
+    "source_id": 82,
+    "target_id": 116,
+    "strength": 5
+   },
+   {
+    "source_id": 82,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 89,
+    "target_id": 147,
+    "strength": 3
+   },
+   {
+    "source_id": 120,
+    "target_id": 152,
+    "strength": 6
+   },
+   {
+    "source_id": 120,
+    "target_id": 147,
+    "strength": 8
+   },
+   {
+    "source_id": 7,
+    "target_id": 138,
+    "strength": 5
+   },
+   {
+    "source_id": 34,
+    "target_id": 45,
+    "strength": 3
+   },
+   {
+    "source_id": 34,
+    "target_id": 116,
+    "strength": 4
+   },
+   {
+    "source_id": 45,
+    "target_id": 116,
+    "strength": 3
+   },
+   {
+    "source_id": 25,
+    "target_id": 67,
+    "strength": 4
+   },
+   {
+    "source_id": 25,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 25,
+    "target_id": 151,
+    "strength": 4
+   },
+   {
+    "source_id": 158,
+    "target_id": 38,
+    "strength": 5
+   },
+   {
+    "source_id": 158,
+    "target_id": 46,
+    "strength": 37
+   },
+   {
+    "source_id": 158,
+    "target_id": 67,
+    "strength": 8
+   },
+   {
+    "source_id": 158,
+    "target_id": 75,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 87,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 86,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 92,
+    "strength": 4
+   },
+   {
+    "source_id": 158,
+    "target_id": 91,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 93,
+    "strength": 18
+   },
+   {
+    "source_id": 158,
+    "target_id": 151,
+    "strength": 17
+   },
+   {
+    "source_id": 158,
+    "target_id": 148,
+    "strength": 9
+   },
+   {
+    "source_id": 38,
+    "target_id": 86,
+    "strength": 4
+   },
+   {
+    "source_id": 38,
+    "target_id": 91,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 67,
+    "strength": 4
+   },
+   {
+    "source_id": 46,
+    "target_id": 75,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 94,
+    "strength": 6
+   },
+   {
+    "source_id": 46,
+    "target_id": 151,
+    "strength": 16
+   },
+   {
+    "source_id": 46,
+    "target_id": 148,
+    "strength": 6
+   },
+   {
+    "source_id": 47,
+    "target_id": 93,
+    "strength": 4
+   },
+   {
+    "source_id": 47,
+    "target_id": 148,
+    "strength": 5
+   },
+   {
+    "source_id": 67,
+    "target_id": 92,
+    "strength": 6
+   },
+   {
+    "source_id": 67,
+    "target_id": 93,
+    "strength": 3
+   },
+   {
+    "source_id": 67,
+    "target_id": 120,
+    "strength": 9
+   },
+   {
+    "source_id": 67,
+    "target_id": 151,
+    "strength": 4
+   },
+   {
+    "source_id": 87,
+    "target_id": 86,
+    "strength": 4
+   },
+   {
+    "source_id": 86,
+    "target_id": 91,
+    "strength": 3
+   },
+   {
+    "source_id": 92,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 93,
+    "target_id": 94,
+    "strength": 5
+   },
+   {
+    "source_id": 93,
+    "target_id": 120,
+    "strength": 15
+   },
+   {
+    "source_id": 93,
+    "target_id": 151,
+    "strength": 8
+   },
+   {
+    "source_id": 93,
+    "target_id": 148,
+    "strength": 10
+   },
+   {
+    "source_id": 94,
+    "target_id": 151,
+    "strength": 3
+   },
+   {
+    "source_id": 120,
+    "target_id": 151,
+    "strength": 79
+   },
+   {
+    "source_id": 120,
+    "target_id": 148,
+    "strength": 29
+   },
+   {
+    "source_id": 153,
+    "target_id": 151,
+    "strength": 5
+   },
+   {
+    "source_id": 153,
+    "target_id": 152,
+    "strength": 7
+   },
+   {
+    "source_id": 26,
+    "target_id": 83,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 105,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 151,
+    "strength": 6
+   },
+   {
+    "source_id": 26,
+    "target_id": 152,
+    "strength": 5
+   },
+   {
+    "source_id": 151,
+    "target_id": 154,
+    "strength": 5
+   },
+   {
+    "source_id": 151,
+    "target_id": 152,
+    "strength": 10
+   },
+   {
+    "source_id": 154,
+    "target_id": 152,
+    "strength": 8
+   },
+   {
+    "source_id": 158,
+    "target_id": 157,
+    "strength": 12
+   },
+   {
+    "source_id": 158,
+    "target_id": 114,
+    "strength": 14
+   },
+   {
+    "source_id": 93,
+    "target_id": 157,
+    "strength": 3
+   },
+   {
+    "source_id": 93,
+    "target_id": 149,
+    "strength": 4
+   },
+   {
+    "source_id": 157,
+    "target_id": 114,
+    "strength": 4
+   },
+   {
+    "source_id": 157,
+    "target_id": 120,
+    "strength": 18
+   },
+   {
+    "source_id": 157,
+    "target_id": 149,
+    "strength": 11
+   },
+   {
+    "source_id": 114,
+    "target_id": 120,
+    "strength": 33
+   },
+   {
+    "source_id": 159,
+    "target_id": 114,
+    "strength": 17
+   },
+   {
+    "source_id": 159,
+    "target_id": 151,
+    "strength": 32
+   },
+   {
+    "source_id": 114,
+    "target_id": 151,
+    "strength": 18
+   },
+   {
+    "source_id": 114,
+    "target_id": 139,
+    "strength": 3
+   },
+   {
+    "source_id": 151,
+    "target_id": 139,
+    "strength": 7
+   },
+   {
+    "source_id": 8,
+    "target_id": 114,
+    "strength": 3
+   },
+   {
+    "source_id": 8,
+    "target_id": 120,
+    "strength": 16
+   },
+   {
+    "source_id": 8,
+    "target_id": 148,
+    "strength": 17
+   },
+   {
+    "source_id": 114,
+    "target_id": 148,
+    "strength": 5
+   },
+   {
+    "source_id": 26,
+    "target_id": 155,
+    "strength": 6
+   },
+   {
+    "source_id": 26,
+    "target_id": 103,
+    "strength": 4
+   },
+   {
+    "source_id": 26,
+    "target_id": 120,
+    "strength": 9
+   },
+   {
+    "source_id": 26,
+    "target_id": 140,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 155,
+    "strength": 13
+   },
+   {
+    "source_id": 159,
+    "target_id": 48,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 77,
+    "strength": 21
+   },
+   {
+    "source_id": 159,
+    "target_id": 148,
+    "strength": 13
+   },
+   {
+    "source_id": 155,
+    "target_id": 48,
+    "strength": 3
+   },
+   {
+    "source_id": 155,
+    "target_id": 77,
+    "strength": 8
+   },
+   {
+    "source_id": 155,
+    "target_id": 103,
+    "strength": 4
+   },
+   {
+    "source_id": 155,
+    "target_id": 120,
+    "strength": 25
+   },
+   {
+    "source_id": 155,
+    "target_id": 151,
+    "strength": 23
+   },
+   {
+    "source_id": 155,
+    "target_id": 148,
+    "strength": 10
+   },
+   {
+    "source_id": 48,
+    "target_id": 77,
+    "strength": 3
+   },
+   {
+    "source_id": 48,
+    "target_id": 103,
+    "strength": 3
+   },
+   {
+    "source_id": 48,
+    "target_id": 120,
+    "strength": 7
+   },
+   {
+    "source_id": 48,
+    "target_id": 151,
+    "strength": 3
+   },
+   {
+    "source_id": 77,
+    "target_id": 103,
+    "strength": 11
+   },
+   {
+    "source_id": 77,
+    "target_id": 120,
+    "strength": 27
+   },
+   {
+    "source_id": 77,
+    "target_id": 151,
+    "strength": 13
+   },
+   {
+    "source_id": 77,
+    "target_id": 140,
+    "strength": 3
+   },
+   {
+    "source_id": 77,
+    "target_id": 148,
+    "strength": 6
+   },
+   {
+    "source_id": 103,
+    "target_id": 120,
+    "strength": 54
+   },
+   {
+    "source_id": 103,
+    "target_id": 151,
+    "strength": 12
+   },
+   {
+    "source_id": 103,
+    "target_id": 140,
+    "strength": 7
+   },
+   {
+    "source_id": 103,
+    "target_id": 148,
+    "strength": 4
+   },
+   {
+    "source_id": 120,
+    "target_id": 140,
+    "strength": 11
+   },
+   {
+    "source_id": 151,
+    "target_id": 140,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 158,
+    "strength": 6
+   },
+   {
+    "source_id": 29,
+    "target_id": 46,
+    "strength": 5
+   },
+   {
+    "source_id": 29,
+    "target_id": 77,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 157,
+    "strength": 6
+   },
+   {
+    "source_id": 29,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 29,
+    "target_id": 122,
+    "strength": 4
+   },
+   {
+    "source_id": 29,
+    "target_id": 151,
+    "strength": 4
+   },
+   {
+    "source_id": 155,
+    "target_id": 158,
+    "strength": 7
+   },
+   {
+    "source_id": 155,
+    "target_id": 89,
+    "strength": 5
+   },
+   {
+    "source_id": 155,
+    "target_id": 157,
+    "strength": 6
+   },
+   {
+    "source_id": 155,
+    "target_id": 122,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 77,
+    "strength": 8
+   },
+   {
+    "source_id": 158,
+    "target_id": 103,
+    "strength": 5
+   },
+   {
+    "source_id": 46,
+    "target_id": 77,
+    "strength": 5
+   },
+   {
+    "source_id": 46,
+    "target_id": 157,
+    "strength": 6
+   },
+   {
+    "source_id": 46,
+    "target_id": 103,
+    "strength": 4
+   },
+   {
+    "source_id": 46,
+    "target_id": 122,
+    "strength": 8
+   },
+   {
+    "source_id": 48,
+    "target_id": 157,
+    "strength": 3
+   },
+   {
+    "source_id": 77,
+    "target_id": 157,
+    "strength": 5
+   },
+   {
+    "source_id": 89,
+    "target_id": 157,
+    "strength": 6
+   },
+   {
+    "source_id": 89,
+    "target_id": 151,
+    "strength": 8
+   },
+   {
+    "source_id": 157,
+    "target_id": 103,
+    "strength": 6
+   },
+   {
+    "source_id": 157,
+    "target_id": 122,
+    "strength": 7
+   },
+   {
+    "source_id": 157,
+    "target_id": 151,
+    "strength": 11
+   },
+   {
+    "source_id": 24,
+    "target_id": 38,
+    "strength": 4
+   },
+   {
+    "source_id": 24,
+    "target_id": 68,
+    "strength": 3
+   },
+   {
+    "source_id": 24,
+    "target_id": 123,
+    "strength": 4
+   },
+   {
+    "source_id": 27,
+    "target_id": 158,
+    "strength": 3
+   },
+   {
+    "source_id": 27,
+    "target_id": 46,
+    "strength": 4
+   },
+   {
+    "source_id": 27,
+    "target_id": 102,
+    "strength": 6
+   },
+   {
+    "source_id": 30,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 34,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 34,
+    "target_id": 145,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 42,
+    "strength": 4
+   },
+   {
+    "source_id": 158,
+    "target_id": 56,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 82,
+    "strength": 4
+   },
+   {
+    "source_id": 158,
+    "target_id": 123,
+    "strength": 10
+   },
+   {
+    "source_id": 158,
+    "target_id": 129,
+    "strength": 7
+   },
+   {
+    "source_id": 38,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 38,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 156,
+    "target_id": 123,
+    "strength": 4
+   },
+   {
+    "source_id": 42,
+    "target_id": 46,
+    "strength": 3
+   },
+   {
+    "source_id": 42,
+    "target_id": 93,
+    "strength": 4
+   },
+   {
+    "source_id": 42,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 42,
+    "target_id": 129,
+    "strength": 5
+   },
+   {
+    "source_id": 45,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 102,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 123,
+    "strength": 10
+   },
+   {
+    "source_id": 46,
+    "target_id": 129,
+    "strength": 4
+   },
+   {
+    "source_id": 56,
+    "target_id": 129,
+    "strength": 6
+   },
+   {
+    "source_id": 56,
+    "target_id": 134,
+    "strength": 3
+   },
+   {
+    "source_id": 68,
+    "target_id": 123,
+    "strength": 4
+   },
+   {
+    "source_id": 82,
+    "target_id": 93,
+    "strength": 3
+   },
+   {
+    "source_id": 82,
+    "target_id": 123,
+    "strength": 4
+   },
+   {
+    "source_id": 82,
+    "target_id": 145,
+    "strength": 4
+   },
+   {
+    "source_id": 93,
+    "target_id": 123,
+    "strength": 5
+   },
+   {
+    "source_id": 93,
+    "target_id": 129,
+    "strength": 9
+   },
+   {
+    "source_id": 93,
+    "target_id": 134,
+    "strength": 4
+   },
+   {
+    "source_id": 116,
+    "target_id": 123,
+    "strength": 7
+   },
+   {
+    "source_id": 116,
+    "target_id": 145,
+    "strength": 5
+   },
+   {
+    "source_id": 123,
+    "target_id": 129,
+    "strength": 11
+   },
+   {
+    "source_id": 123,
+    "target_id": 145,
+    "strength": 5
+   },
+   {
+    "source_id": 123,
+    "target_id": 148,
+    "strength": 6
+   },
+   {
+    "source_id": 153,
+    "target_id": 159,
+    "strength": 11
+   },
+   {
+    "source_id": 153,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 29,
+    "strength": 6
+   },
+   {
+    "source_id": 26,
+    "target_id": 56,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 123,
+    "strength": 4
+   },
+   {
+    "source_id": 29,
+    "target_id": 56,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 123,
+    "strength": 8
+   },
+   {
+    "source_id": 159,
+    "target_id": 83,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 167,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 154,
+    "strength": 5
+   },
+   {
+    "source_id": 56,
+    "target_id": 165,
+    "strength": 4
+   },
+   {
+    "source_id": 77,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 103,
+    "target_id": 123,
+    "strength": 9
+   },
+   {
+    "source_id": 103,
+    "target_id": 154,
+    "strength": 4
+   },
+   {
+    "source_id": 123,
+    "target_id": 136,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 53,
+    "strength": 6
+   },
+   {
+    "source_id": 53,
+    "target_id": 93,
+    "strength": 4
+   },
+   {
+    "source_id": 27,
+    "target_id": 101,
+    "strength": 5
+   },
+   {
+    "source_id": 29,
+    "target_id": 57,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 101,
+    "strength": 7
+   },
+   {
+    "source_id": 29,
+    "target_id": 149,
+    "strength": 4
+   },
+   {
+    "source_id": 158,
+    "target_id": 57,
+    "strength": 6
+   },
+   {
+    "source_id": 158,
+    "target_id": 147,
+    "strength": 3
+   },
+   {
+    "source_id": 46,
+    "target_id": 101,
+    "strength": 5
+   },
+   {
+    "source_id": 46,
+    "target_id": 149,
+    "strength": 5
+   },
+   {
+    "source_id": 57,
+    "target_id": 122,
+    "strength": 5
+   },
+   {
+    "source_id": 85,
+    "target_id": 89,
+    "strength": 4
+   },
+   {
+    "source_id": 157,
+    "target_id": 101,
+    "strength": 6
+   },
+   {
+    "source_id": 8,
+    "target_id": 46,
+    "strength": 4
+   },
+   {
+    "source_id": 8,
+    "target_id": 93,
+    "strength": 9
+   },
+   {
+    "source_id": 8,
+    "target_id": 109,
+    "strength": 5
+   },
+   {
+    "source_id": 158,
+    "target_id": 109,
+    "strength": 18
+   },
+   {
+    "source_id": 46,
+    "target_id": 109,
+    "strength": 45
+   },
+   {
+    "source_id": 93,
+    "target_id": 109,
+    "strength": 21
+   },
+   {
+    "source_id": 109,
+    "target_id": 148,
+    "strength": 5
+   },
+   {
+    "source_id": 155,
+    "target_id": 109,
+    "strength": 9
+   },
+   {
+    "source_id": 93,
+    "target_id": 139,
+    "strength": 5
+   },
+   {
+    "source_id": 109,
+    "target_id": 120,
+    "strength": 15
+   },
+   {
+    "source_id": 109,
+    "target_id": 151,
+    "strength": 11
+   },
+   {
+    "source_id": 109,
+    "target_id": 139,
+    "strength": 6
+   },
+   {
+    "source_id": 159,
+    "target_id": 46,
+    "strength": 17
+   },
+   {
+    "source_id": 159,
+    "target_id": 62,
+    "strength": 5
+   },
+   {
+    "source_id": 89,
+    "target_id": 93,
+    "strength": 5
+   },
+   {
+    "source_id": 89,
+    "target_id": 109,
+    "strength": 9
+   },
+   {
+    "source_id": 77,
+    "target_id": 139,
+    "strength": 3
+   },
+   {
+    "source_id": 157,
+    "target_id": 139,
+    "strength": 7
+   },
+   {
+    "source_id": 46,
+    "target_id": 114,
+    "strength": 3
+   },
+   {
+    "source_id": 59,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 59,
+    "target_id": 152,
+    "strength": 3
+   },
+   {
+    "source_id": 57,
+    "target_id": 123,
+    "strength": 5
+   },
+   {
+    "source_id": 57,
+    "target_id": 151,
+    "strength": 5
+   },
+   {
+    "source_id": 49,
+    "target_id": 103,
+    "strength": 3
+   },
+   {
+    "source_id": 57,
+    "target_id": 103,
+    "strength": 6
+   },
+   {
+    "source_id": 103,
+    "target_id": 126,
+    "strength": 4
+   },
+   {
+    "source_id": 151,
+    "target_id": 147,
+    "strength": 5
+   },
+   {
+    "source_id": 158,
+    "target_id": 112,
+    "strength": 3
+   },
+   {
+    "source_id": 57,
+    "target_id": 109,
+    "strength": 4
+   },
+   {
+    "source_id": 103,
+    "target_id": 109,
+    "strength": 4
+   },
+   {
+    "source_id": 151,
+    "target_id": 149,
+    "strength": 5
+   },
+   {
+    "source_id": 158,
+    "target_id": 88,
+    "strength": 3
+   },
+   {
+    "source_id": 88,
+    "target_id": 108,
+    "strength": 6
+   },
+   {
+    "source_id": 108,
+    "target_id": 139,
+    "strength": 3
+   },
+   {
+    "source_id": 89,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 157,
+    "target_id": 109,
+    "strength": 5
+   },
+   {
+    "source_id": 157,
+    "target_id": 123,
+    "strength": 6
+   },
+   {
+    "source_id": 109,
+    "target_id": 122,
+    "strength": 5
+   },
+   {
+    "source_id": 109,
+    "target_id": 123,
+    "strength": 8
+   },
+   {
+    "source_id": 22,
+    "target_id": 54,
+    "strength": 7
+   },
+   {
+    "source_id": 22,
+    "target_id": 123,
+    "strength": 9
+   },
+   {
+    "source_id": 123,
+    "target_id": 151,
+    "strength": 9
+   },
+   {
+    "source_id": 123,
+    "target_id": 149,
+    "strength": 7
+   },
+   {
+    "source_id": 26,
+    "target_id": 27,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 158,
+    "strength": 10
+   },
+   {
+    "source_id": 26,
+    "target_id": 46,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 57,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 101,
+    "strength": 4
+   },
+   {
+    "source_id": 54,
+    "target_id": 101,
+    "strength": 3
+   },
+   {
+    "source_id": 101,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 22,
+    "target_id": 26,
+    "strength": 12
+   },
+   {
+    "source_id": 22,
+    "target_id": 68,
+    "strength": 7
+   },
+   {
+    "source_id": 22,
+    "target_id": 139,
+    "strength": 5
+   },
+   {
+    "source_id": 22,
+    "target_id": 146,
+    "strength": 7
+   },
+   {
+    "source_id": 26,
+    "target_id": 139,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 68,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 86,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 146,
+    "strength": 5
+   },
+   {
+    "source_id": 68,
+    "target_id": 146,
+    "strength": 4
+   },
+   {
+    "source_id": 54,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 129,
+    "strength": 18
+   },
+   {
+    "source_id": 22,
+    "target_id": 24,
+    "strength": 14
+   },
+   {
+    "source_id": 24,
+    "target_id": 146,
+    "strength": 3
+   },
+   {
+    "source_id": 22,
+    "target_id": 129,
+    "strength": 18
+   },
+   {
+    "source_id": 22,
+    "target_id": 152,
+    "strength": 9
+   },
+   {
+    "source_id": 26,
+    "target_id": 73,
+    "strength": 3
+   },
+   {
+    "source_id": 73,
+    "target_id": 170,
+    "strength": 4
+   },
+   {
+    "source_id": 73,
+    "target_id": 129,
+    "strength": 10
+   },
+   {
+    "source_id": 170,
+    "target_id": 129,
+    "strength": 6
+   },
+   {
+    "source_id": 129,
+    "target_id": 152,
+    "strength": 5
+   },
+   {
+    "source_id": 123,
+    "target_id": 127,
+    "strength": 4
+   },
+   {
+    "source_id": 27,
+    "target_id": 67,
+    "strength": 4
+   },
+   {
+    "source_id": 67,
+    "target_id": 101,
+    "strength": 4
+   },
+   {
+    "source_id": 67,
+    "target_id": 118,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 28,
+    "strength": 4
+   },
+   {
+    "source_id": 26,
+    "target_id": 157,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 54,
+    "strength": 3
+   },
+   {
+    "source_id": 54,
+    "target_id": 157,
+    "strength": 4
+   },
+   {
+    "source_id": 155,
+    "target_id": 114,
+    "strength": 4
+   },
+   {
+    "source_id": 77,
+    "target_id": 114,
+    "strength": 3
+   },
+   {
+    "source_id": 77,
+    "target_id": 149,
+    "strength": 4
+   },
+   {
+    "source_id": 103,
+    "target_id": 114,
+    "strength": 5
+   },
+   {
+    "source_id": 103,
+    "target_id": 149,
+    "strength": 5
+   },
+   {
+    "source_id": 114,
+    "target_id": 131,
+    "strength": 6
+   },
+   {
+    "source_id": 120,
+    "target_id": 131,
+    "strength": 8
+   },
+   {
+    "source_id": 12,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 12,
+    "target_id": 151,
+    "strength": 5
+   },
+   {
+    "source_id": 33,
+    "target_id": 120,
+    "strength": 8
+   },
+   {
+    "source_id": 33,
+    "target_id": 151,
+    "strength": 4
+   },
+   {
+    "source_id": 63,
+    "target_id": 151,
+    "strength": 5
+   },
+   {
+    "source_id": 72,
+    "target_id": 114,
+    "strength": 3
+   },
+   {
+    "source_id": 72,
+    "target_id": 120,
+    "strength": 11
+   },
+   {
+    "source_id": 72,
+    "target_id": 151,
+    "strength": 3
+   },
+   {
+    "source_id": 33,
+    "target_id": 72,
+    "strength": 4
+   },
+   {
+    "source_id": 72,
+    "target_id": 148,
+    "strength": 8
+   },
+   {
+    "source_id": 8,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 8,
+    "target_id": 155,
+    "strength": 6
+   },
+   {
+    "source_id": 8,
+    "target_id": 151,
+    "strength": 6
+   },
+   {
+    "source_id": 155,
+    "target_id": 119,
+    "strength": 3
+   },
+   {
+    "source_id": 8,
+    "target_id": 15,
+    "strength": 6
+   },
+   {
+    "source_id": 8,
+    "target_id": 72,
+    "strength": 3
+   },
+   {
+    "source_id": 15,
+    "target_id": 120,
+    "strength": 14
+   },
+   {
+    "source_id": 15,
+    "target_id": 148,
+    "strength": 3
+   },
+   {
+    "source_id": 151,
+    "target_id": 131,
+    "strength": 6
+   },
+   {
+    "source_id": 3,
+    "target_id": 151,
+    "strength": 4
+   },
+   {
+    "source_id": 3,
+    "target_id": 131,
+    "strength": 3
+   },
+   {
+    "source_id": 96,
+    "target_id": 152,
+    "strength": 3
+   },
+   {
+    "source_id": 3,
+    "target_id": 59,
+    "strength": 3
+   },
+   {
+    "source_id": 39,
+    "target_id": 114,
+    "strength": 3
+   },
+   {
+    "source_id": 39,
+    "target_id": 60,
+    "strength": 3
+   },
+   {
+    "source_id": 39,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 39,
+    "target_id": 151,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 39,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 131,
+    "strength": 3
+   },
+   {
+    "source_id": 120,
+    "target_id": 123,
+    "strength": 15
+   },
+   {
+    "source_id": 120,
+    "target_id": 133,
+    "strength": 3
+   },
+   {
+    "source_id": 62,
+    "target_id": 121,
+    "strength": 4
+   },
+   {
+    "source_id": 62,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 93,
+    "target_id": 121,
+    "strength": 6
+   },
+   {
+    "source_id": 121,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 120,
+    "target_id": 129,
+    "strength": 9
+   },
+   {
+    "source_id": 24,
+    "target_id": 43,
+    "strength": 5
+   },
+   {
+    "source_id": 43,
+    "target_id": 146,
+    "strength": 5
+   },
+   {
+    "source_id": 16,
+    "target_id": 23,
+    "strength": 3
+   },
+   {
+    "source_id": 16,
+    "target_id": 159,
+    "strength": 7
+   },
+   {
+    "source_id": 23,
+    "target_id": 159,
+    "strength": 3
+   },
+   {
+    "source_id": 74,
+    "target_id": 120,
+    "strength": 18
+   },
+   {
+    "source_id": 37,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 51,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 129,
+    "strength": 5
+   },
+   {
+    "source_id": 109,
+    "target_id": 140,
+    "strength": 5
+   },
+   {
+    "source_id": 19,
+    "target_id": 135,
+    "strength": 3
+   },
+   {
+    "source_id": 155,
+    "target_id": 135,
+    "strength": 3
+   },
+   {
+    "source_id": 77,
+    "target_id": 147,
+    "strength": 7
+   },
+   {
+    "source_id": 155,
+    "target_id": 118,
+    "strength": 3
+   },
+   {
+    "source_id": 155,
+    "target_id": 79,
+    "strength": 3
+   },
+   {
+    "source_id": 155,
+    "target_id": 129,
+    "strength": 4
+   },
+   {
+    "source_id": 79,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 79,
+    "target_id": 151,
+    "strength": 3
+   },
+   {
+    "source_id": 79,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 25,
+    "target_id": 73,
+    "strength": 5
+   },
+   {
+    "source_id": 25,
+    "target_id": 95,
+    "strength": 3
+   },
+   {
+    "source_id": 25,
+    "target_id": 129,
+    "strength": 7
+   },
+   {
+    "source_id": 95,
+    "target_id": 129,
+    "strength": 8
+   },
+   {
+    "source_id": 15,
+    "target_id": 93,
+    "strength": 4
+   },
+   {
+    "source_id": 8,
+    "target_id": 62,
+    "strength": 6
+   },
+   {
+    "source_id": 8,
+    "target_id": 121,
+    "strength": 3
+   },
+   {
+    "source_id": 62,
+    "target_id": 109,
+    "strength": 6
+   },
+   {
+    "source_id": 159,
+    "target_id": 142,
+    "strength": 3
+   },
+   {
+    "source_id": 24,
+    "target_id": 26,
+    "strength": 4
+   },
+   {
+    "source_id": 24,
+    "target_id": 152,
+    "strength": 8
+   },
+   {
+    "source_id": 26,
+    "target_id": 67,
+    "strength": 4
+   },
+   {
+    "source_id": 67,
+    "target_id": 139,
+    "strength": 3
+   },
+   {
+    "source_id": 25,
+    "target_id": 159,
+    "strength": 3
+   },
+   {
+    "source_id": 8,
+    "target_id": 159,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 79,
+    "strength": 3
+   },
+   {
+    "source_id": 61,
+    "target_id": 77,
+    "strength": 4
+   },
+   {
+    "source_id": 72,
+    "target_id": 77,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 169,
+    "strength": 6
+   },
+   {
+    "source_id": 169,
+    "target_id": 166,
+    "strength": 5
+   },
+   {
+    "source_id": 169,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 77,
+    "target_id": 78,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 78,
+    "strength": 3
+   },
+   {
+    "source_id": 24,
+    "target_id": 105,
+    "strength": 3
+   },
+   {
+    "source_id": 26,
+    "target_id": 97,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 105,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 112,
+    "strength": 9
+   },
+   {
+    "source_id": 159,
+    "target_id": 144,
+    "strength": 5
+   },
+   {
+    "source_id": 80,
+    "target_id": 112,
+    "strength": 3
+   },
+   {
+    "source_id": 112,
+    "target_id": 144,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 127,
+    "strength": 5
+   },
+   {
+    "source_id": 4,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 74,
+    "strength": 7
+   },
+   {
+    "source_id": 74,
+    "target_id": 103,
+    "strength": 17
+   },
+   {
+    "source_id": 74,
+    "target_id": 151,
+    "strength": 3
+   },
+   {
+    "source_id": 90,
+    "target_id": 103,
+    "strength": 4
+   },
+   {
+    "source_id": 90,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 74,
+    "target_id": 123,
+    "strength": 7
+   },
+   {
+    "source_id": 74,
+    "target_id": 149,
+    "strength": 3
+   },
+   {
+    "source_id": 79,
+    "target_id": 130,
+    "strength": 3
+   },
+   {
+    "source_id": 84,
+    "target_id": 120,
+    "strength": 4
+   },
+   {
+    "source_id": 120,
+    "target_id": 130,
+    "strength": 3
+   },
+   {
+    "source_id": 32,
+    "target_id": 74,
+    "strength": 15
+   },
+   {
+    "source_id": 32,
+    "target_id": 103,
+    "strength": 9
+   },
+   {
+    "source_id": 32,
+    "target_id": 120,
+    "strength": 8
+   },
+   {
+    "source_id": 32,
+    "target_id": 159,
+    "strength": 3
+   },
+   {
+    "source_id": 32,
+    "target_id": 67,
+    "strength": 3
+   },
+   {
+    "source_id": 32,
+    "target_id": 123,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 134,
+    "strength": 5
+   },
+   {
+    "source_id": 67,
+    "target_id": 74,
+    "strength": 3
+   },
+   {
+    "source_id": 67,
+    "target_id": 88,
+    "strength": 3
+   },
+   {
+    "source_id": 67,
+    "target_id": 123,
+    "strength": 4
+   },
+   {
+    "source_id": 67,
+    "target_id": 134,
+    "strength": 6
+   },
+   {
+    "source_id": 67,
+    "target_id": 103,
+    "strength": 9
+   },
+   {
+    "source_id": 88,
+    "target_id": 151,
+    "strength": 3
+   },
+   {
+    "source_id": 5,
+    "target_id": 56,
+    "strength": 6
+   },
+   {
+    "source_id": 5,
+    "target_id": 67,
+    "strength": 4
+   },
+   {
+    "source_id": 5,
+    "target_id": 92,
+    "strength": 3
+   },
+   {
+    "source_id": 5,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 5,
+    "target_id": 140,
+    "strength": 3
+   },
+   {
+    "source_id": 15,
+    "target_id": 31,
+    "strength": 3
+   },
+   {
+    "source_id": 15,
+    "target_id": 51,
+    "strength": 4
+   },
+   {
+    "source_id": 15,
+    "target_id": 56,
+    "strength": 3
+   },
+   {
+    "source_id": 15,
+    "target_id": 92,
+    "strength": 3
+   },
+   {
+    "source_id": 15,
+    "target_id": 140,
+    "strength": 9
+   },
+   {
+    "source_id": 31,
+    "target_id": 51,
+    "strength": 3
+   },
+   {
+    "source_id": 31,
+    "target_id": 92,
+    "strength": 4
+   },
+   {
+    "source_id": 31,
+    "target_id": 140,
+    "strength": 4
+   },
+   {
+    "source_id": 51,
+    "target_id": 56,
+    "strength": 4
+   },
+   {
+    "source_id": 51,
+    "target_id": 67,
+    "strength": 4
+   },
+   {
+    "source_id": 51,
+    "target_id": 92,
+    "strength": 6
+   },
+   {
+    "source_id": 51,
+    "target_id": 140,
+    "strength": 4
+   },
+   {
+    "source_id": 56,
+    "target_id": 67,
+    "strength": 6
+   },
+   {
+    "source_id": 56,
+    "target_id": 92,
+    "strength": 6
+   },
+   {
+    "source_id": 67,
+    "target_id": 129,
+    "strength": 15
+   },
+   {
+    "source_id": 92,
+    "target_id": 129,
+    "strength": 4
+   },
+   {
+    "source_id": 92,
+    "target_id": 140,
+    "strength": 7
+   },
+   {
+    "source_id": 103,
+    "target_id": 129,
+    "strength": 6
+   },
+   {
+    "source_id": 129,
+    "target_id": 140,
+    "strength": 3
+   },
+   {
+    "source_id": 2,
+    "target_id": 99,
+    "strength": 4
+   },
+   {
+    "source_id": 26,
+    "target_id": 99,
+    "strength": 3
+   },
+   {
+    "source_id": 99,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 99,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 3,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 15,
+    "target_id": 159,
+    "strength": 8
+   },
+   {
+    "source_id": 4,
+    "target_id": 109,
+    "strength": 3
+   },
+   {
+    "source_id": 15,
+    "target_id": 40,
+    "strength": 5
+   },
+   {
+    "source_id": 15,
+    "target_id": 157,
+    "strength": 3
+   },
+   {
+    "source_id": 15,
+    "target_id": 60,
+    "strength": 3
+   },
+   {
+    "source_id": 15,
+    "target_id": 136,
+    "strength": 3
+   },
+   {
+    "source_id": 60,
+    "target_id": 136,
+    "strength": 3
+   },
+   {
+    "source_id": 74,
+    "target_id": 157,
+    "strength": 5
+   },
+   {
+    "source_id": 157,
+    "target_id": 140,
+    "strength": 4
+   },
+   {
+    "source_id": 136,
+    "target_id": 140,
+    "strength": 6
+   },
+   {
+    "source_id": 15,
+    "target_id": 139,
+    "strength": 4
+   },
+   {
+    "source_id": 15,
+    "target_id": 109,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 109,
+    "strength": 15
+   },
+   {
+    "source_id": 118,
+    "target_id": 138,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 156,
+    "strength": 3
+   },
+   {
+    "source_id": 156,
+    "target_id": 118,
+    "strength": 3
+   },
+   {
+    "source_id": 118,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 123,
+    "target_id": 142,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 152,
+    "strength": 22
+   },
+   {
+    "source_id": 123,
+    "target_id": 139,
+    "strength": 3
+   },
+   {
+    "source_id": 17,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 115,
+    "target_id": 142,
+    "strength": 3
+   },
+   {
+    "source_id": 71,
+    "target_id": 145,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 34,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 82,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 98,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 111,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 34,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 71,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 111,
+    "strength": 3
+   },
+   {
+    "source_id": 34,
+    "target_id": 63,
+    "strength": 3
+   },
+   {
+    "source_id": 34,
+    "target_id": 111,
+    "strength": 3
+   },
+   {
+    "source_id": 63,
+    "target_id": 123,
+    "strength": 4
+   },
+   {
+    "source_id": 71,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 71,
+    "target_id": 123,
+    "strength": 4
+   },
+   {
+    "source_id": 82,
+    "target_id": 111,
+    "strength": 3
+   },
+   {
+    "source_id": 98,
+    "target_id": 111,
+    "strength": 3
+   },
+   {
+    "source_id": 109,
+    "target_id": 149,
+    "strength": 3
+   },
+   {
+    "source_id": 32,
+    "target_id": 158,
+    "strength": 3
+   },
+   {
+    "source_id": 90,
+    "target_id": 152,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 64,
+    "strength": 4
+   },
+   {
+    "source_id": 29,
+    "target_id": 66,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 64,
+    "strength": 5
+   },
+   {
+    "source_id": 114,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 71,
+    "target_id": 152,
+    "strength": 3
+   },
+   {
+    "source_id": 123,
+    "target_id": 152,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 152,
+    "strength": 5
+   },
+   {
+    "source_id": 10,
+    "target_id": 66,
+    "strength": 4
+   },
+   {
+    "source_id": 10,
+    "target_id": 29,
+    "strength": 3
+   },
+   {
+    "source_id": 93,
+    "target_id": 111,
+    "strength": 3
+   },
+   {
+    "source_id": 10,
+    "target_id": 34,
+    "strength": 3
+   },
+   {
+    "source_id": 10,
+    "target_id": 111,
+    "strength": 3
+   },
+   {
+    "source_id": 32,
+    "target_id": 157,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 47,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 93,
+    "strength": 8
+   },
+   {
+    "source_id": 62,
+    "target_id": 148,
+    "strength": 5
+   },
+   {
+    "source_id": 29,
+    "target_id": 93,
+    "strength": 3
+   },
+   {
+    "source_id": 53,
+    "target_id": 62,
+    "strength": 6
+   },
+   {
+    "source_id": 53,
+    "target_id": 109,
+    "strength": 6
+   },
+   {
+    "source_id": 1,
+    "target_id": 20,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 129,
+    "strength": 10
+   },
+   {
+    "source_id": 42,
+    "target_id": 67,
+    "strength": 3
+   },
+   {
+    "source_id": 109,
+    "target_id": 129,
+    "strength": 4
+   },
+   {
+    "source_id": 41,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 95,
+    "target_id": 130,
+    "strength": 4
+   },
+   {
+    "source_id": 112,
+    "target_id": 129,
+    "strength": 10
+   },
+   {
+    "source_id": 129,
+    "target_id": 130,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 65,
+    "strength": 4
+   },
+   {
+    "source_id": 43,
+    "target_id": 67,
+    "strength": 3
+   },
+   {
+    "source_id": 43,
+    "target_id": 152,
+    "strength": 9
+   },
+   {
+    "source_id": 67,
+    "target_id": 152,
+    "strength": 6
+   },
+   {
+    "source_id": 26,
+    "target_id": 109,
+    "strength": 3
+   },
+   {
+    "source_id": 153,
+    "target_id": 158,
+    "strength": 4
+   },
+   {
+    "source_id": 153,
+    "target_id": 38,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 38,
+    "strength": 8
+   },
+   {
+    "source_id": 159,
+    "target_id": 87,
+    "strength": 4
+   },
+   {
+    "source_id": 22,
+    "target_id": 38,
+    "strength": 8
+   },
+   {
+    "source_id": 26,
+    "target_id": 38,
+    "strength": 4
+   },
+   {
+    "source_id": 26,
+    "target_id": 87,
+    "strength": 5
+   },
+   {
+    "source_id": 77,
+    "target_id": 152,
+    "strength": 4
+   },
+   {
+    "source_id": 22,
+    "target_id": 36,
+    "strength": 4
+   },
+   {
+    "source_id": 36,
+    "target_id": 38,
+    "strength": 3
+   },
+   {
+    "source_id": 22,
+    "target_id": 127,
+    "strength": 3
+   },
+   {
+    "source_id": 68,
+    "target_id": 127,
+    "strength": 3
+   },
+   {
+    "source_id": 127,
+    "target_id": 146,
+    "strength": 4
+   },
+   {
+    "source_id": 22,
+    "target_id": 97,
+    "strength": 4
+   },
+   {
+    "source_id": 22,
+    "target_id": 105,
+    "strength": 5
+   },
+   {
+    "source_id": 22,
+    "target_id": 28,
+    "strength": 6
+   },
+   {
+    "source_id": 28,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 43,
+    "target_id": 44,
+    "strength": 3
+   },
+   {
+    "source_id": 44,
+    "target_id": 146,
+    "strength": 3
+   },
+   {
+    "source_id": 22,
+    "target_id": 23,
+    "strength": 3
+   },
+   {
+    "source_id": 67,
+    "target_id": 157,
+    "strength": 5
+   },
+   {
+    "source_id": 43,
+    "target_id": 96,
+    "strength": 4
+   },
+   {
+    "source_id": 22,
+    "target_id": 74,
+    "strength": 3
+   },
+   {
+    "source_id": 127,
+    "target_id": 152,
+    "strength": 6
+   },
+   {
+    "source_id": 22,
+    "target_id": 51,
+    "strength": 3
+   },
+   {
+    "source_id": 22,
+    "target_id": 92,
+    "strength": 4
+   },
+   {
+    "source_id": 51,
+    "target_id": 139,
+    "strength": 4
+   },
+   {
+    "source_id": 92,
+    "target_id": 139,
+    "strength": 4
+   },
+   {
+    "source_id": 56,
+    "target_id": 88,
+    "strength": 3
+   },
+   {
+    "source_id": 88,
+    "target_id": 165,
+    "strength": 7
+   },
+   {
+    "source_id": 139,
+    "target_id": 140,
+    "strength": 5
+   },
+   {
+    "source_id": 22,
+    "target_id": 56,
+    "strength": 4
+   },
+   {
+    "source_id": 52,
+    "target_id": 56,
+    "strength": 3
+   },
+   {
+    "source_id": 13,
+    "target_id": 52,
+    "strength": 3
+   },
+   {
+    "source_id": 13,
+    "target_id": 134,
+    "strength": 3
+   },
+   {
+    "source_id": 13,
+    "target_id": 67,
+    "strength": 3
+   },
+   {
+    "source_id": 52,
+    "target_id": 67,
+    "strength": 3
+   },
+   {
+    "source_id": 88,
+    "target_id": 118,
+    "strength": 3
+   },
+   {
+    "source_id": 88,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 165,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 100,
+    "strength": 3
+   },
+   {
+    "source_id": 67,
+    "target_id": 154,
+    "strength": 3
+   },
+   {
+    "source_id": 136,
+    "target_id": 128,
+    "strength": 3
+   },
+   {
+    "source_id": 99,
+    "target_id": 164,
+    "strength": 3
+   },
+   {
+    "source_id": 14,
+    "target_id": 16,
+    "strength": 5
+   },
+   {
+    "source_id": 27,
+    "target_id": 159,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 83,
+    "strength": 3
+   },
+   {
+    "source_id": 58,
+    "target_id": 67,
+    "strength": 4
+   },
+   {
+    "source_id": 58,
+    "target_id": 129,
+    "strength": 4
+   },
+   {
+    "source_id": 73,
+    "target_id": 112,
+    "strength": 6
+   },
+   {
+    "source_id": 112,
+    "target_id": 124,
+    "strength": 3
+   },
+   {
+    "source_id": 58,
+    "target_id": 112,
+    "strength": 5
+   },
+   {
+    "source_id": 50,
+    "target_id": 112,
+    "strength": 4
+   },
+   {
+    "source_id": 110,
+    "target_id": 144,
+    "strength": 7
+   },
+   {
+    "source_id": 73,
+    "target_id": 132,
+    "strength": 3
+   },
+   {
+    "source_id": 110,
+    "target_id": 112,
+    "strength": 6
+   },
+   {
+    "source_id": 110,
+    "target_id": 129,
+    "strength": 3
+   },
+   {
+    "source_id": 158,
+    "target_id": 58,
+    "strength": 3
+   },
+   {
+    "source_id": 6,
+    "target_id": 58,
+    "strength": 4
+   },
+   {
+    "source_id": 58,
+    "target_id": 103,
+    "strength": 5
+   },
+   {
+    "source_id": 159,
+    "target_id": 58,
+    "strength": 3
+   },
+   {
+    "source_id": 58,
+    "target_id": 120,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 143,
+    "strength": 3
+   },
+   {
+    "source_id": 103,
+    "target_id": 152,
+    "strength": 5
+   },
+   {
+    "source_id": 43,
+    "target_id": 103,
+    "strength": 4
+   },
+   {
+    "source_id": 104,
+    "target_id": 154,
+    "strength": 4
+   },
+   {
+    "source_id": 100,
+    "target_id": 154,
+    "strength": 3
+   },
+   {
+    "source_id": 100,
+    "target_id": 152,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 69,
+    "strength": 3
+   },
+   {
+    "source_id": 153,
+    "target_id": 120,
+    "strength": 5
+   },
+   {
+    "source_id": 96,
+    "target_id": 127,
+    "strength": 3
+   },
+   {
+    "source_id": 169,
+    "target_id": 147,
+    "strength": 3
+   },
+   {
+    "source_id": 166,
+    "target_id": 147,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 113,
+    "strength": 4
+   },
+   {
+    "source_id": 159,
+    "target_id": 113,
+    "strength": 5
+   },
+   {
+    "source_id": 103,
+    "target_id": 141,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 84,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 150,
+    "strength": 4
+   },
+   {
+    "source_id": 84,
+    "target_id": 150,
+    "strength": 3
+   },
+   {
+    "source_id": 169,
+    "target_id": 148,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 160,
+    "strength": 3
+   },
+   {
+    "source_id": 160,
+    "target_id": 167,
+    "strength": 3
+   },
+   {
+    "source_id": 163,
+    "target_id": 99,
+    "strength": 3
+   },
+   {
+    "source_id": 159,
+    "target_id": 137,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 67,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 106,
+    "strength": 4
+   },
+   {
+    "source_id": 22,
+    "target_id": 29,
+    "strength": 7
+   },
+   {
+    "source_id": 129,
+    "target_id": 132,
+    "strength": 3
+   },
+   {
+    "source_id": 29,
+    "target_id": 141,
+    "strength": 4
+   },
+   {
+    "source_id": 71,
+    "target_id": 77,
+    "strength": 3
+   },
+   {
+    "source_id": 11,
+    "target_id": 123,
+    "strength": 3
+   },
+   {
+    "source_id": 168,
+    "target_id": 132,
+    "strength": 3
+   },
+   {
+    "source_id": 162,
+    "target_id": 168,
+    "strength": 3
+   },
+   {
+    "source_id": 162,
+    "target_id": 161,
+    "strength": 4
+   }
+  ],
+  "clusters": [
+   {
+    "cluster": 1,
+    "label": "Part I: The Concept"
+   },
+   {
+    "cluster": 2,
+    "label": "Part II: Sovereign and Exception"
+   },
+   {
+    "cluster": 3,
+    "label": "Part III: Arcana Imperii to Raison d’État"
+   },
+   {
+    "cluster": 4,
+    "label": "Part IV: Ideology and Total War"
+   },
+   {
+    "cluster": 5,
+    "label": "Part V: National Security State"
+   },
+   {
+    "cluster": 6,
+    "label": "Part VI: Networks, Cyber and AI"
+   },
+   {
+    "cluster": 7,
+    "label": "Part VII: Accusation, Defence, Imagination"
+   }
+  ]
+ }
+}

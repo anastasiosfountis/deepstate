@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Deep State Map</title>
+<style>
+:root{--bg:#faf8f4;--fg:#1d1b18;--mut:#6d675e;--card:#fff;--line:#d9d3c8}
+@media (prefers-color-scheme:dark){:root{--bg:#16151a;--fg:#ece8e0;--mut:#a09a8e;--card:#201f26;--line:#34323c}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 Georgia,serif}
+header{padding:14px 16px;border-bottom:1px solid var(--line)}h1{margin:0;font-size:20px}header p{margin:2px 0 0;color:var(--mut);font-size:13px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;padding:10px 16px;border-bottom:1px solid var(--line);align-items:center}
+.bar input,.bar select,.bar button{font:inherit;font-size:14px;padding:6px 8px;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:6px}
+.bar button.on{background:var(--fg);color:var(--bg)}
+main{display:flex;flex-direction:column}@media(min-width:900px){main{flex-direction:row}}
+#view{flex:1;min-height:60vh;height:calc(100vh - 150px);position:relative}svg{width:100%;height:100%;display:block}
+aside{width:100%;padding:14px 16px;border-top:1px solid var(--line);background:var(--card)}
+@media(min-width:900px){aside{width:340px;border-top:0;border-left:1px solid var(--line);overflow:auto;height:calc(100vh - 150px)}}
+aside h2{margin:0 0 4px;font-size:18px}.tag{display:inline-block;font-size:12px;padding:1px 8px;border-radius:10px;color:#fff;margin-bottom:8px}
+aside li{margin:2px 0}aside a{color:inherit;cursor:pointer;text-decoration:underline dotted}
+.legend{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:12px;color:var(--mut);padding:6px 16px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px}
+text{fill:var(--fg);font-size:11px;pointer-events:none}
+</style></head><body>
+<header><h1>Deep State: Networks, States, AI</h1><p>An interactive map of the book’s concepts, by Anastasios Fountis. It adds no new claims and draws only on the chapters.</p></header>
+<div class="bar">
+<input id="q" placeholder="Search a concept…" list="dl"><datalist id="dl"></datalist>
+<select id="fp"><option value="">All parts</option></select>
+<select id="fc"><option value="">All chapters</option></select>
+<button id="v1" class="on">Map</button><button id="v2">Mind map</button><button id="rs">Reset</button>
+</div>
+<div class="legend" id="lg"></div>
+<main><div id="view"><svg id="svg"></svg></div>
+<aside id="side"><h2>Deep state</h2><p>The centre of the map. Click any concept to see where it appears in the book, which Part it begins in, and which concepts it most often appears with. Node size reflects how often the concept is mentioned; lines join concepts that appear in the same paragraphs.</p></aside></main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="data.js"></script>
+<script>
+const D=window.DATA,COL={I:'#8c564b',II:'#7f3c8d',III:'#c9831a',IV:'#c0392b',V:'#2e6da4',VI:'#1f8a70',VII:'#555b66'};
+const byId=new Map(D.nodes.map(n=>[n.id,n])),svg=d3.select('#svg');let mode='map',sel=null;
+const nm=D.parts.reduce((o,p)=>(o[p.id]=p.name,o),{});
+document.getElementById('lg').innerHTML=D.parts.map(p=>`<span><i style="background:${COL[p.id]}"></i>Part ${p.id}: ${p.name}</span>`).join('');
+const fp=document.getElementById('fp'),fc=document.getElementById('fc'),q=document.getElementById('q');
+D.parts.forEach(p=>fp.add(new Option(`Part ${p.id}: ${p.name}`,p.id)));
+const cl=k=>k==='26'?'Int.':k+'.';
+Object.entries(D.chapters).forEach(([k,v])=>fc.add(new Option(`${cl(k)} ${v}`,k)));
+document.getElementById('dl').innerHTML=D.nodes.map(n=>`<option value="${n.label}">`).join('');
+function vis(n){return (!fp.value||n.part===fp.value)&&(!fc.value||n.chapters.includes(+fc.value))}
+function show(n){sel=n;const nb=D.edges.filter(e=>e.s===n.id||e.t===n.id).map(e=>({n:byId.get(e.s===n.id?e.t:e.s),w:e.w})).sort((a,b)=>b.w-a.w).slice(0,10);
+document.getElementById('side').innerHTML=`<h2>${n.label}</h2><span class="tag" style="background:${COL[n.part]}">Begins in Part ${n.part}: ${nm[n.part]}</span>
+<p><b>Mentions:</b> ${n.mentions}. <b>Chapters:</b></p><ul>${n.chapters.map(c=>`<li>${cl(c)} ${D.chapters[c]}</li>`).join('')}</ul>
+<p><b>Most often with:</b></p><ul>${nb.map(x=>`<li><a data-id="${x.n.id}">${x.n.label}</a> (${x.w})</li>`).join('')}</ul>`;
+document.querySelectorAll('#side a').forEach(a=>a.onclick=()=>{const m=byId.get(+a.dataset.id);show(m);draw()})}
+function size(){const r=document.getElementById('svg').getBoundingClientRect();return [r.width,r.height]}
+let sim;
+function draw(){svg.selectAll('*').remove();if(sim)sim.stop();const [W,H]=size();svg.attr('viewBox',[0,0,W,H]);
+const g=svg.append('g');const zm=d3.zoom().scaleExtent([.2,5]).on('zoom',e=>g.attr('transform',e.transform));svg.call(zm);if(mode==='map')svg.call(zm.transform,d3.zoomIdentity.translate(W*.2,H*.2).scale(.6));
+if(mode==='map'){
+ const nodes=D.nodes.filter(vis).map(n=>({...n})),ids=new Set(nodes.map(n=>n.id));
+ const centre={id:0,label:'Deep state',part:'C',mentions:80,fixed:true};nodes.push(centre);
+ const links=D.edges.filter(e=>ids.has(e.s)&&ids.has(e.t)).map(e=>({source:e.s,target:e.t,w:e.w}));
+ nodes.forEach(n=>{if(n.id)links.push({source:0,target:n.id,w:1,c:1})});
+ sim=d3.forceSimulation(nodes).force('l',d3.forceLink(links).id(d=>d.id).distance(l=>l.c?260:90).strength(l=>l.c?.01:Math.min(.25,.02*l.w)))
+  .force('c',d3.forceManyBody().strength(-230)).force('x',d3.forceX(W/2).strength(.02)).force('y',d3.forceY(H/2).strength(.03)).force('o',d3.forceCollide(d=>4+Math.sqrt(d.mentions)));
+ const L=g.append('g').selectAll('line').data(links.filter(l=>!l.c)).join('line').attr('stroke','#888').attr('stroke-opacity',.18).attr('stroke-width',l=>.4+Math.log(l.w));
+ const N=g.append('g').selectAll('g').data(nodes).join('g').style('cursor','pointer').on('click',(e,d)=>{if(d.id)show(d);draw()});
+ N.append('circle').attr('r',d=>d.id?3+Math.sqrt(d.mentions):16).attr('fill',d=>d.id?COL[d.part]:'#111').attr('stroke',d=>sel&&sel.id===d.id?'#000':'#fff').attr('stroke-width',d=>sel&&sel.id===d.id?3:1);
+ N.append('text').attr('dx',8).attr('dy',3).style('display',d=>(!d.id||d.mentions>=28||(sel&&sel.id===d.id)||q.value)?null:'none').text(d=>d.label).attr('font-weight',d=>d.id?400:700);
+ N.call(d3.drag().on('start',(e,d)=>{if(!e.active)sim.alphaTarget(.3).restart();d.fx=d.x;d.fy=d.y}).on('drag',(e,d)=>{d.fx=e.x;d.fy=e.y}).on('end',(e,d)=>{if(!e.active)sim.alphaTarget(0);if(d.id){d.fx=null;d.fy=null}}));
+ centre.fx=W/2;centre.fy=H/2;
+ sim.on('tick',()=>{L.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);N.attr('transform',d=>`translate(${d.x},${d.y})`)});
+}else{
+ const root={name:'Deep state',children:D.parts.map(p=>({name:`Part ${p.id}: ${p.name}`,p:p.id,children:Array.from({length:p.chapters[1]-p.chapters[0]+1},(_,i)=>p.chapters[0]+i).concat(p.id==='V'?[26]:[]).filter(c=>!fc.value||c==fc.value).map(c=>({name:`${cl(String(c))} ${D.chapters[c]}`,p:p.id,children:D.nodes.filter(n=>n.chapters[0]===c&&vis(n)).sort((a,b)=>b.mentions-a.mentions).slice(0,7).map(n=>({name:n.label,p:p.id,id:n.id}))}))})).filter(p=>!fp.value||p.p===fp.value)};
+ const h=d3.hierarchy(root);const leaves=h.leaves().length;d3.tree().nodeSize([15,250])(h);
+ const gg=g.append('g').attr('transform',`translate(40,${H/2})`);
+ gg.append('g').selectAll('path').data(h.links()).join('path').attr('fill','none').attr('stroke','#999').attr('stroke-opacity',.55).attr('d',d3.linkHorizontal().x(d=>d.y).y(d=>d.x));
+ const nn=gg.append('g').selectAll('g').data(h.descendants()).join('g').attr('transform',d=>`translate(${d.y},${d.x})`).style('cursor',d=>d.data.id?'pointer':'default').on('click',(e,d)=>{if(d.data.id){show(byId.get(d.data.id))}});
+ nn.append('circle').attr('r',d=>d.depth?3.5:8).attr('fill',d=>d.data.p?COL[d.data.p]:'#111');
+ nn.append('text').attr('dy','.32em').attr('x',9).text(d=>d.data.name.length>46?d.data.name.slice(0,44)+'…':d.data.name).style('font-size',d=>d.depth<2?'13px':'11px').style('font-weight',d=>d.depth<2?700:400);
+ const k=Math.max(.5,Math.min(1,H/(leaves*15+40)));svg.call(zm.transform,d3.zoomIdentity.translate(0,H/2*(1-k)).scale(k));
+}}
+const setm=m=>{mode=m;v1.classList.toggle('on',m==='map');v2.classList.toggle('on',m==='mind');draw()};
+v1.onclick=()=>setm('map');v2.onclick=()=>setm('mind');
+fp.onchange=fc.onchange=draw;rs.onclick=()=>{fp.value=fc.value=q.value='';sel=null;draw()};
+q.onchange=()=>{const n=D.nodes.find(n=>n.label.toLowerCase()===q.value.toLowerCase());if(n){show(n);draw()}};
+addEventListener('resize',draw);draw();
+</script></body></html>
